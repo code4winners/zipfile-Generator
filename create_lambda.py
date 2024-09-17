@@ -4,7 +4,7 @@ import os
 
 # Define constants
 FUNCTION_NAME = 'my_lambda_function'
-ROLE_ARN = 'arn:aws:iam::????????:role/lambda_execution_role'  # Replace with your role ARN
+ROLE_ARN = 'arn:aws:iam::______________:role/lambda_execution_role'  # Replace with your role ARN
 REGION = 'us-east-2'  # Replace with your desired AWS region
 
 # Create a ZIP file containing the Lambda function code
